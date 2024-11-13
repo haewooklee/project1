@@ -1,6 +1,12 @@
-# Hally's Project for Trying Github Desktop
-## Dataset
 
-There is some more content here!
+# Sales Analysis and Forecasting¶
+## Cleaning Data
 
-# added new line
+## Analysis
+
+### Monthly,Weekday Trend
+### Region, Product Analysis
+### Return Data Analysis
+## Forecasting
+
+### Prophet
